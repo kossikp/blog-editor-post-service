@@ -1,0 +1,19 @@
+{
+  "name": "blog-editor-post-service",
+  "version": "1.0.0",
+  "description": "Blog Editor - Post Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kossikp/blog-editor-post-service.git"
+  },
+  "author": "Kossi A. Kponvi <kossi.a.kponvi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kossikp/blog-editor-post-service/issues"
+  },
+  "homepage": "https://github.com/kossikp/blog-editor-post-service#readme"
+}
